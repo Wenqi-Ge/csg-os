@@ -10,3 +10,15 @@ Object search is a fundamental skill for household robots, yet the core problem 
 ## PS
 I am organizing the code, and it will be made open source after the paper is accepted.
 Thanks for your attention.  :D
+
+## Bibtex
+```
+@misc{ge2024commonsense,
+      title={Commonsense Scene Graph-based Target Localization for Object Search}, 
+      author={Wenqi Ge and Chao Tang and Hong Zhang},
+      year={2024},
+      eprint={2404.00343},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
